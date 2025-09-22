@@ -1,0 +1,34 @@
+Modos de execução
+    - Headless (padrão): sem exibição da execução do teste
+        - Não tem inteferencia do usuário
+        -- Mais leve
+    - Headed: com exibição da execução do teste
+
+    Melhores localizadores (seletores de componentes) de 2025
+    - data-test (W3C)
+    - ID
+    - name
+    -cssSelector
+    - class ou tag
+    - xPath
+
+    3 Fatores comuns de erros em automação de testes:
+    - Seletor ruim
+    - Falta de sincronismo
+    - "Programação Exótica" da aplicação
+
+    15/09 - Agenda
+    - Até a aula 18: playwright
+    - Aula 19 a 24: Appium
+    - Aula 25 a 28: Postman
+    - Aula 29 a 32: API com Rest Assured
+    Termino: 19/11/2025
+
+    Abordagens de automação
+    - Captura and Playback / Record and Play --> Selenium IDE (Situações pontuais/Sites que vão morrer)
+    - Script simples - Tudo junto em um só arquivo
+    - Script estruturado - Organiza o que se usa em 2 ou mais locais em um terceiro local
+
+    Credenciais do GitHub para o GitHub
+    git config --global user.name "Leogarcezti"
+    git config --global user.email "garcez.leonardo@gmail.com"
