@@ -52,4 +52,10 @@ const usarClique = Math.random () < 0.7; //70% das vezes clique e 30% tab
 
 Arquivo de configuração do Playwright: playwright.config.js
 
+Comandos para instação de novos pacotes no projeto
+rm -rf node_modules package-lock.json
+npm cache clean --force
+npm install
+
+
 
